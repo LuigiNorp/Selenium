@@ -1,3 +1,7 @@
 [submodule "Certificates_Downloader"]
 	path = Certificates_Downloader
 	url = https://github.com/LuigiNorp/Certificates_Downloader
+	
+[submodule "Olx_Linux"]
+	path = Olx_Linux
+	url = git@github.com:LuigiNorp/olx-scrapper.git
